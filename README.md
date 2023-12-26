@@ -1,6 +1,6 @@
 # TrollStoreGameSeagull
 
-Download IPA below and Install via TrollStore:
+Download IPA and Install via TrollStore:
 [GameSeagull](https://github.com/donato-fiore/TrollStoreGameSeagull/releases/download/v1.0/GameSeagull.ipa)
 
 ## Support
